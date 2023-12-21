@@ -1,0 +1,1 @@
+// Sample javascript file content
